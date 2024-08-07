@@ -6,21 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingwithmudassar&label=Profile%20views&color=0e75b6&style=flat" alt="programmingwithmudassar" /> </p>
 
-- 🔭 I’m currently working on **Rent Management System**
-
-- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **MERN Stack web Application**
 
 - 🤝 I’m looking for help with **Learning BlockChain**
 
-- 👨‍💻 My Profile Website [https://mudassar-hussain.netlify.app/](https://mudassar-hussain.netlify.app/)
-
 - 💬 Ask me about **react.js , Node.js ,express.js, mongooDB**
 
 - 📫 How to reach me **mudassarhus667788@gmail.com**
 
-- 📄 Know about my experiences [https://mudassar-hussain.netlify.app/](https://mudassar-hussain.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
