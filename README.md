@@ -24,18 +24,7 @@ With over **4 years of hands-on experience**, I focus on **Next.js, TypeScript, 
 - **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, NestJS, Laravel, Python  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **DevOps & Tools:** Docker, Nginx, Git, VPS Deployment, REST APIs, JWT Auth  
-- **UI/UX Tools:** Figma, Adobe XD  
-
----
-
-### 🚀 What I Do
-
-- Architect and develop **high-performance web applications**
-- Build **RESTful APIs** and integrate **secure authentication**
-- Design **real-time data-driven systems** with modern NoSQL & SQL databases
-- Deploy and manage **production-grade environments** on VPS and cloud platforms
-- Collaborate with teams to deliver scalable, maintainable, and efficient codebases
+- **DevOps & Tools:** Github, Docker, Nginx, Git, VPS Deployment, REST APIs, JWT Auth  
 
 ---
 
